@@ -23,7 +23,7 @@
 
 - 💻 &nbsp;  C | MySQL | NodeJS | PostgreSQL
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | VueJs
 
 
 <h3>🛠 To Learn</h3>
