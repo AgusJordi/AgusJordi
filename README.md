@@ -29,7 +29,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Gatsby | NextJs | Firebase | GraphQL
+- 🔧 &nbsp; Gatsby | NextJs | Firebase | GraphQL | Python | AWS
 
 <hr>
 
