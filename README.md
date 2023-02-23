@@ -23,9 +23,9 @@
 
 - 💻 &nbsp;  C | MySQL | NodeJS | PostgreSQL
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | VueJs
+- 🌐 &nbsp; HTML | CSS | JavaScript | Typescript | ReactJS | VueJs
 
-- 📱 &nbsp; React Native
+- 📱 &nbsp; React Native | Flutter
 
 <h3>🛠 To Learn</h3>
 
